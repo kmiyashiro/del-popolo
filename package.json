@@ -1,0 +1,23 @@
+{
+  "name": "del-popolo",
+  "version": "1.0.0",
+  "description": "Pizza menu",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js public 9876"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kmiyashiro/del-popolo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kmiyashiro/del-popolo/issues"
+  },
+  "homepage": "https://github.com/kmiyashiro/del-popolo",
+  "dependencies": {
+    "simple-server": "^1.0.1"
+  }
+}
